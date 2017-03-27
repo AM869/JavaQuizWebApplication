@@ -1,0 +1,12 @@
+body {
+    background-color:rgba(192,192,192,0.3);
+}
+#main-content{
+    margin: 15px;
+}
+.text-content{
+    font-size: 200%;
+}
+#colored{
+    color: green;
+}

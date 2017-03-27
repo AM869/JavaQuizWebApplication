@@ -1,0 +1,37 @@
+body {
+background-color:rgba(255,255,0,0.3);
+width: 100%;
+}
+h1 {
+text-align: center;
+}
+h3 { 
+    font-weight:normal;
+}
+#back_button{
+    text-align: center;
+    position: relative;
+    top: 5px;
+    font-size: 120%;
+    width : 5em;
+    height: 1.5em;
+    margin-bottom:15px;
+    margin-left:15px;
+}
+
+.class1{
+    margin-bottom:10px;
+    
+}
+section {
+    margin: 15px;
+}
+/*#footer{
+    position:static;
+}*/
+@media(max-width:1600px){
+    #footer{
+        position: static;
+    }
+}
+

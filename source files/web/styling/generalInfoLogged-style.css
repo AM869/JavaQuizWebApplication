@@ -1,0 +1,35 @@
+body {
+    background-image:url("image.gif");
+}
+h1 {
+    text-align: center;
+}
+h3 { font-weight:normal; 
+}
+
+#first_button{
+    display: inline;
+}
+.buttons{
+    display: inline;
+    padding:0;
+    margin-left:15px;
+    margin-top:15px;
+}
+
+section {
+    margin: 15px;
+}
+
+#footer{
+    margin-top:20px;
+}
+
+/*this depends on the context of the page, this media query breakpoint could change if
+the text was smaller or bigger respectively or it could no be needed at 
+all if the text is too small like in index.jsp and home.jsp*/
+@media(max-width:1600px){
+    #footer{
+        position: static;
+    }
+}
