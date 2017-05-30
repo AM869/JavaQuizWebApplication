@@ -1,4 +1,4 @@
-# tyJAVA
+# Java quiz web application. Migrated to https://github.com/AM869/tyJAVA
 Project
 
 
